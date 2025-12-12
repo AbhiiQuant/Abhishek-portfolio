@@ -14,4 +14,4 @@ This is my professional portfolio showcasing my data analysis projects and skill
 - B.E. Computer Engineering, Dr. Babasaheb Ambedkar Marathwada University (2025-2028)
 
 ## Contact
-Email: your-email@example.com
+Email: abhishekghembad255@gmail.com
